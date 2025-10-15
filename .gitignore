@@ -2,3 +2,4 @@
 tutorial-*.ipynb
 .vscode
 vectorstore
+.ipynb_checkpoints
