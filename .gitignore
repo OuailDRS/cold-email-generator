@@ -3,3 +3,4 @@ tutorial-*.ipynb
 .vscode
 vectorstore
 .ipynb_checkpoints
+__pycache__
